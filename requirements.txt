@@ -1,0 +1,11 @@
+tensorflow==2.20.0
+keras==3.13.2
+scikit-learn==1.6.1
+pandas==2.2.2
+numpy==2.0.2
+matplotlib==3.10.0
+seaborn==0.13.2
+joblib==1.5.3
+openpyxl==3.1.5
+streamlit
+statsmodels==0.14.6
