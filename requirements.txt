@@ -1,7 +1,6 @@
-tensorflow-cpu
+streamlit
+tensorflow
 scikit-learn
 pandas
-numpy<2.0
+numpy
 joblib
-matplotlib
-streamlit
