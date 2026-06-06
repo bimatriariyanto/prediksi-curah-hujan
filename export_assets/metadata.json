@@ -1,5 +1,5 @@
 {
-    "sequence_length_lstm": 45,
+    "sequence_length_lstm": 30,
     "sequence_length_mlp": 21,
     "n_features": 48,
     "target_col": "CH",
@@ -7,20 +7,20 @@
     "split_ratio": "70/10/20",
     "training_period": "1971-2025",
     "metrics_lstm": {
-        "rmse": 2.3182,
-        "mae": 1.1573,
-        "r2": 0.9757,
-        "nse": 0.9757,
-        "kge": 0.973,
-        "pbias": -2.4094
+        "rmse": 2.2757,
+        "mae": 1.0807,
+        "r2": 0.9765,
+        "nse": 0.9765,
+        "kge": 0.9828,
+        "pbias": -1.1899
     },
     "metrics_mlp": {
-        "rmse": 3.2107,
-        "mae": 1.9499,
-        "r2": 0.9534,
-        "nse": 0.9534,
-        "kge": 0.9351,
-        "pbias": -0.3933
+        "rmse": 2.8455,
+        "mae": 1.667,
+        "r2": 0.9633,
+        "nse": 0.9633,
+        "kge": 0.9326,
+        "pbias": 2.2372
     },
     "feature_columns": [
         "T0700",
